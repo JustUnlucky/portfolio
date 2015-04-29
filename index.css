@@ -1,0 +1,50 @@
+/*
+    Document   : index.css
+    Created on : 2015-04-27 06:01 PM
+    Author     : Unknown
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+root {
+    display: block;
+}
+h1 {
+    text-align:center;
+    background-color: Yellow;
+}
+table {
+    width:100%
+}
+h4:first-letter {
+	font-family:Georgia;
+	font-size: 200%;
+	font-weight: bold;
+	line-height: 90%;
+	margin-bottom:-2px;
+}
+
+#image {
+ height:50%;
+ width:75%;
+}
+#table{
+    background-color:blue;
+    text-align:center;
+}
+#pic {
+    text-align:center
+}
+#small {
+    height:15%;
+}
+#navbar{
+	text-align:center;
+}
+
+#navbar>li{
+	display:inline-block;
+    border: 2px solid black;
+    padding: 5px;
+}

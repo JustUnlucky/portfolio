@@ -1,0 +1,44 @@
+/*
+    Document   : AboutMe.css
+    Created on : 2015-04-27 06:55 PM
+    Author     : Unknown
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+root {
+    display: block;
+}
+body{
+    Background-image:url("http://www.antonoffplus.com/wp-content/uploads/2013/10/background1.jpg");
+}
+
+ol {
+    color: white;
+}
+#Hadesdiv{
+    text-align:center;
+}
+h1 {
+    text-align:center;
+    font-size:50px;
+    color: Red;
+    background-color: Black;
+}
+p {
+    color:white;
+    font-size:20px;
+}
+h3 {
+    color:white;
+}
+#navbar{
+	text-align:center;
+}
+
+#navbar>li{
+	display:inline-block;
+    border: 2px solid black;
+    padding: 5px;
+}

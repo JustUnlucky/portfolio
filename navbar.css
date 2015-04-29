@@ -1,0 +1,21 @@
+/*
+    Document   : navbar.css
+    Created on : 2015-04-27 06:26 PM
+    Author     : Unknown
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+root {
+    display: block;
+}
+#navbar{
+	text-align:center;
+}
+
+#navbar li{
+	display:inline-block;
+    border: 2px solid black;
+    padding: 5px;
+}

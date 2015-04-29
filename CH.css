@@ -1,0 +1,32 @@
+/*
+    Document   : CH.css
+    Created on : 2015-04-27 07:01 PM
+    Author     : Unknown
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+root {
+    display: block;
+}
+h1 {
+    text-align:center;
+    background-color:black;
+    color:white
+}
+body {
+    background-image:url("http://www.antonoffplus.com/wp-content/uploads/2013/10/background1.jpg");
+    color:white;
+}
+p {
+    font-family:Arial;
+    font-size:20px;
+    display:inline-block;
+}
+#img {
+    height:25%;
+    width:35%;
+    display:inline-block;
+    float:right;
+}

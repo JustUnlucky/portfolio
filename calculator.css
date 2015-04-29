@@ -1,0 +1,72 @@
+/*
+    Document   : calculator.css
+    Created on : 2015-04-28 05:16 PM
+    Author     : Unknown
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+root {
+    display: block;
+}
+body {
+  Background-image:url(" http://www.antonoffplus.com/wp-content/uploads/2013/10/background1.jpg");
+}
+p {
+  color:White;
+  font-size: 30px;
+}
+#cal {
+  text-align:center;
+  margin-top: 80px;
+}
+#title {
+  text-align:center;
+  margin-top:80px;
+  font-size:50px;
+  color:White;
+}
+#submitButton {
+  background-color:green;
+  color:white;
+  border:0px;
+}
+#btnClear {
+  background-color:red;
+  color:white;
+  border:0px;
+}
+p {
+  border:10px solid blue;
+  color:yellow;
+}
+#add {
+  background-color:#CCCCF5;
+  color:white;
+}
+#subtract {
+  background-color:#9999EB;
+  color:white;
+}
+#multiply {
+  background-color:	#6666E0;
+  color:white;
+}
+#divide {
+  background-color:#3333D6;
+  color:white;
+}
+#exponential {
+  background-color:#0000CC;
+  color:white;
+}
+#navbar{
+	text-align:center;
+}
+
+#navbar>li{
+	display:inline-block;
+    border: 2px solid black;
+    padding: 5px;
+}
